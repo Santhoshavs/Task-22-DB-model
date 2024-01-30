@@ -1,1 +1,1 @@
-# Task-22-DB-model
+DB model for Guvi Zen class(EER Diagram).
